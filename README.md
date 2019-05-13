@@ -1,2 +1,2 @@
 # HRMSApplication
-HRMS frontend application using BootStrap/JS/JQuery/JSP/HTML/MySql and Spring
+HRMS frontend application using BootStrap/JS/JQuery/JSP/HTML/MySql and Java
